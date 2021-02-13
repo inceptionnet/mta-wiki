@@ -1,8 +1,4 @@
----
-description: >-
-  Inception'un kurallar bölümüne hoş geldiniz. Burada sunucumuzun kurallarını ve
-  politikalarını okuyabilirsiniz. Kurallarımızı dikkatlice okuyunuz.
----
+# Oluşturucular:
 
-# Ana Sayfa
-
+- <a href="https://github.com/cleopatradev">cleopatradev</a>
+- <a href="https://github.com/eserjpeg">eserjpeg</a>
