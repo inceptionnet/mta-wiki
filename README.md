@@ -1,3 +1,5 @@
+(Warning: All content on this page is imaginary and designed for the roleplay game.)
+
 # Linkler:
 
 * [Ana Sayfa](README.md)
