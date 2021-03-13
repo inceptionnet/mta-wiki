@@ -1,4 +1,4 @@
-(Warning: All content on this page is imaginary and designed for the roleplay game.)
+(Warning: All content on this repository is imaginary and designed for the roleplay game.)
 
 # Linkler:
 
