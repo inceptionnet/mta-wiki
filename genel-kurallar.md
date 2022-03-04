@@ -14,7 +14,7 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 #### Hesap Paylaşımı
 
 * **Açıklama:**
-  * Üyeler açmış oldukları ana hesabı, başka bir üyeye devredemez, satamaz ve hesap bilgilerini \(şifreler vb.\) paylaşamaz. Üye hiç bir gerekçeyle, farklı bir üyenin ana hesabına veya ana hesabına bağlı hizmetlerine giriş yapamaz.
+  * Üyeler açmış oldukları ana hesabı, başka bir üyeye devredemez, satamaz ve hesap bilgilerini (şifreler vb.) paylaşamaz. Üye hiç bir gerekçeyle, farklı bir üyenin ana hesabına veya ana hesabına bağlı hizmetlerine giriş yapamaz.
 * **İhlalinde:**
   * Tespiti edilen ilgili ana hesaplar yasaklanır.
 
@@ -58,7 +58,7 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 * **İhlalinde:**
   * İlgili oyuncular sunucudan yasaklanır.
 
-#### OOC Küfür&Hakaret
+#### OOC Küfür\&Hakaret
 
 * **Açıklama:**
   * Sunucuda herhangi bir oyuncuya OOC olarak küfür veya hakaret edilmesi kesinlikle yasaktır. Özel mesaj alanları da buna dahildir.
@@ -72,7 +72,7 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 * **İhlalinde:**
   * Yetkili insiyatifine göre ceza verilir, üst yönetime hakarette yasaklama uygulanır.
 
-#### OOC Reklam&Provoke
+#### OOC Reklam\&Provoke
 
 * **Açıklama:**
   * Sunucu içerisindeki oyuncuları oyun içerisinden veya dışarısından provoke etmek, herhangi bir yere çekmek kesinlikle yasaktır.
@@ -82,7 +82,7 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 #### OOC Üslup
 
 * **Açıklama:**
-  * Oyun içerisinde OOC konuşmalar yalnızca /b, /pm veya, /f vb. OOC olarak belirtilen kanallar üzerinden yapılabilir. Radyo kanalları, normal konuşma alanı ve benzeri IC olarak belirtilen alanlarda kesinlikle OOC konuşulamaz. Roleplay dışında herhangi bir olay beraberinde OOC konuşmak zorunda kalınırsa üsluba kesinlikle dikkat edilmelidir. OOC konuşmalarda bilinçli olarak kişisel saldırılarda \(rencide edici konuşmalar, küfür, hakaret, aşağılama vb.\) bulunmak, tartışmaları kavgaya sürüklemek, ortamı kışkırtıcı üslup ve yazışmalar yasaktır.
+  * Oyun içerisinde OOC konuşmalar yalnızca /b, /pm veya, /f vb. OOC olarak belirtilen kanallar üzerinden yapılabilir. Radyo kanalları, normal konuşma alanı ve benzeri IC olarak belirtilen alanlarda kesinlikle OOC konuşulamaz. Roleplay dışında herhangi bir olay beraberinde OOC konuşmak zorunda kalınırsa üsluba kesinlikle dikkat edilmelidir. OOC konuşmalarda bilinçli olarak kişisel saldırılarda (rencide edici konuşmalar, küfür, hakaret, aşağılama vb.) bulunmak, tartışmaları kavgaya sürüklemek, ortamı kışkırtıcı üslup ve yazışmalar yasaktır.
 * **İhlalinde:**
   * Yetkili insiyatifine göre oyuncu cezalandırılır.
 
@@ -91,7 +91,7 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 * **Açıklama:**
   * Oyun içerisinde bir role play'in ortasındayken, başka bir oyuncu size ooc olarak sesleniyor ve sizden bir cevap bekliyorsa onu yok saymalısınız. OOC konuşmalar role play ortamı içerisinde yasaktır. Bu kişileri yok sayıp rolünüze devam etmelisiniz. Rahatsız edici şekilde kişi ooc konuşmalara devam ediyorsa /rapor komutunu kullanmalısınız. Bir admin yanınıza gelip ooc olarak sizinle konuşuyorsa, bu konuşmayı yok sayamazsınız. Yetkililer RP halini durdurup, iptal etme hakkına sahiptir. Bu nedenle uyarıları dikkate alıp, yetkili ile iletişime geçmelisiniz. Aksi halde ceza işlemleri uygulanır.
 * **Örnek:**
-  * \[OOC\] Query : biraz para verir misin?
+  * \[OOC] Query : biraz para verir misin?
 * **İhlalinde:**
   * Yetkili insiyatifine göre oyuncu cezalandırılır
 
@@ -126,16 +126,19 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 
 * **Açıklama:**
   * Onaylı bir bölgeye baskın atılabilmesi için;
-  * Illegal Oluşumlar: 
-
-- Baskın atılacak birliğin en az \*5\* üyesi aktif olmalıdır.  
-- Baskın atacak kişi sayısı en az \*7\* olmalıdır.  
+  * Illegal Oluşumlar:\
 
 
-* * Legal Oluşumlar: 
+\- Baskın atılacak birliğin en az \*5\* üyesi aktif olmalıdır.\
+\- Baskın atacak kişi sayısı en az \*7\* olmalıdır.\
 
-- Baskın atılacak birliğin en az \*6\* üyesi aktif olmalıdır.  
-- Baskın atacak kişi sayısı en az \*8\* olmalıdır, özel kuvvetler harici \(S.W.A.T. etc.\) saha birimleri onaylı bölgelere baskında bulunamaz.
+
+*
+  * Legal Oluşumlar:\
+
+
+\- Baskın atılacak birliğin en az \*6\* üyesi aktif olmalıdır.\
+\- Baskın atacak kişi sayısı en az \*8\* olmalıdır, özel kuvvetler harici (S.W.A.T. etc.) saha birimleri onaylı bölgelere baskında bulunamaz.
 
 * **İhlalinde:**
   * Üst Yönetim Kurulu insiyatifine bırakılır.
@@ -152,11 +155,11 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 * **Açıklama:**
   * Oyun içerisinde bazı karakter isimlerinin seçilmesi yasaklanmıştır. Yasaklı bir ismin seçilip, yetkili tarafından gözden kaçırılması durumunda; bu isim tespit edilince karakter yasaklanır. Karakter yaratma esnasında bu sorumluluğun kullanıcıya ait olduğu belirtilmiştir.
 * **Yasaklı İsimler:**
-  * Ünlü isimleri seçilemez. \(Örnek olarak sanatçılar, film ve oyun karakterleri gibi. Michael Jackson, Jon Snow\)
-  * Gerçek dışı isimler. \(Örnek: sakAt\)
-  * Dalga geçmek amaçlı isimler. \(Okunuş veya başka sebepli komik isimler yasaktır.Örnek: Jhon\_Bhon\)
-  * Türk ve Arap kökenli isimler seçilemez. \(Ahmet, Osman, Muhammed gibi\)
-  * Eskiden size ait olan/olmayan isimlerin birkaç harfi değiştirilerek benzer isim seçilemez.\(Query &gt; Quary\)
+  * Ünlü isimleri seçilemez. (Örnek olarak sanatçılar, film ve oyun karakterleri gibi. Michael Jackson, Jon Snow)
+  * Gerçek dışı isimler. (Örnek: sakAt)
+  * Dalga geçmek amaçlı isimler. (Okunuş veya başka sebepli komik isimler yasaktır.Örnek: Jhon\_Bhon)
+  * Türk ve Arap kökenli isimler seçilemez. (Ahmet, Osman, Muhammed gibi)
+  * Eskiden size ait olan/olmayan isimlerin birkaç harfi değiştirilerek benzer isim seçilemez.(Query > Quary)
 * **İhlalinde:**
   * Yetkili tarafından karakter yasaklanması uygulanabilir.
 
@@ -173,12 +176,12 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 * **Açıklama:**
   * Oyun içerisinde kullanılan dil Türkçe olsa da, İngilizce konuşulduğu esas alınır. Yazımlar esnasında bazı dil kurallarına dikkat etmeniz gerekir.
 * **Yasaklamalar:**
-  * Bazı kısaltmalar kullanılamaz. \("slm", "mrb", "vb" gibi.\)
+  * Bazı kısaltmalar kullanılamaz. ("slm", "mrb", "vb" gibi.)
   * Türk rolüne kayması sebebiyle "lan" kelimesi kullanımı yasaktır.
-  * İngilizce denkliği olmayan kelimeler ve Türkiye'de oluşmuş terimler yasaktır. \(örnek: "panpa" vs gibi.\)
-  * "İnşallah", "selamın aleyküm" gibi Müslümanlığa dayanan kelimelerin kullanılması, Müslüman rollerin yapılamaması sebebiyle yasaktır. \(yerine "umarım", "merhaba/selam" gibi karşılığı olan kelimeler seçilmelidir.\)
+  * İngilizce denkliği olmayan kelimeler ve Türkiye'de oluşmuş terimler yasaktır. (örnek: "panpa" vs gibi.)
+  * "İnşallah", "selamın aleyküm" gibi Müslümanlığa dayanan kelimelerin kullanılması, Müslüman rollerin yapılamaması sebebiyle yasaktır. (yerine "umarım", "merhaba/selam" gibi karşılığı olan kelimeler seçilmelidir.)
   * IC küfür kullanımı serbesttir.
-  * Türklere özgü sokak ağzı kullanımı yasaktır. Türk rolü kapsamında ceza verilir. \(Örnek: "ne bakıyon birader?"\)
+  * Türklere özgü sokak ağzı kullanımı yasaktır. Türk rolü kapsamında ceza verilir. (Örnek: "ne bakıyon birader?")
 * **İhlalinde:**
   * Yetkili insiyatifine göre oyuncu cezalandırılır.
 
@@ -201,7 +204,8 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
     * Mal varlığının önceden el değiştirmesi log kontrolü ile tespit edilip, geçmişe yönelik el koyma uygulanabilir.
     * Oyuncuların bu konuda itiraz hakkı bulunmamaktadır. Yetkililerin sonradan rol iptal hakkı saklı tutulur.
     * IC sicile sahip olan bir karakter LSPD, LSCSD, LSFMD, iTV gibi birliklere giremez.
-* * **OOC Sicil:**
+*
+  * **OOC Sicil:**
     * OOC siciller mevcut karakterinize işlenir. Fakat aldığınız her OOC cezadan tüm karakterleriniz dolayısıyla ana hesabınız sorumlu tutulur.
     * Verilen cezaların sürekliliği halinde ceza işlemleri yükseltilerek uygulanır.
     * Üst yetkili kararına göre karakter veya ana hesap yasaklanabilir.
@@ -220,7 +224,7 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 #### Olmayan Karakter Özellikleri Belirtmek
 
 * **Açıklama:**
-  * Kullandığınız karakterinizin özelliklerini\(karakter ismi,cinsiyet,yaş,ten rengi,uyruk\) oyuna ilk girişinizde belirleyebilirsiniz. Sunucuda karakterinizle oynarken bu özelliklere göre hareket etmelisiniz. Karakter özelliklerinin daha sonradan değiştirilmesi söz konusu değildir.
+  * Kullandığınız karakterinizin özelliklerini(karakter ismi,cinsiyet,yaş,ten rengi,uyruk) oyuna ilk girişinizde belirleyebilirsiniz. Sunucuda karakterinizle oynarken bu özelliklere göre hareket etmelisiniz. Karakter özelliklerinin daha sonradan değiştirilmesi söz konusu değildir.
   * İşlem sorumluluğu kullanıcıya aittir. Bu nedenle seçerken dikkat edilmelidir. Karakter özelliklerini değiştirmek için gönderilen özel mesaj, rapor, destek bildirimleri silinir.
 * **Örnek:**
   * Beyaz skini alıp zenci rolü veya zenci skini alıp beyaz rolü yapamazsınız.
@@ -231,18 +235,18 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 
 * **Açıklama:**
   * Oyun içerisinde reklam/haber kanalları üzerinden yapılan işlemlerde şu durumlar yasaktır;
-    * Bireysel 'Araç Aranıyor' reklamları vermek yasaktır. İş yerine sahip galeriler \(forumda İnternet sitesi mevcut olmalı\) için geçerli değildir.
-    * Yasa dışı içerikli reklamlar yasaktır. \(Örnek: silah/uyuşturucu satışı vb.\)
-    * Yasa dışı içeriğin kalıba uydurularak reklamı yasaktır. \(Uyuşturucu yerine 'Şeker satılır' ilanı vermek gibi\)
-    * İş aranıyor reklamı vermek yasaktır. \(Örnek: Şoförüm ve iş arıyorum gibi\)
+    * Bireysel 'Araç Aranıyor' reklamları vermek yasaktır. İş yerine sahip galeriler (forumda İnternet sitesi mevcut olmalı) için geçerli değildir.
+    * Yasa dışı içerikli reklamlar yasaktır. (Örnek: silah/uyuşturucu satışı vb.)
+    * Yasa dışı içeriğin kalıba uydurularak reklamı yasaktır. (Uyuşturucu yerine 'Şeker satılır' ilanı vermek gibi)
+    * İş aranıyor reklamı vermek yasaktır. (Örnek: Şoförüm ve iş arıyorum gibi)
     * Küfür/Hakaret içeren reklamlar yasaktır.
-    * OOC terim içeren reklamlar yasaktır. \(Örnek: SMS No: 19, objeli mekanım satılıktır.\)
+    * OOC terim içeren reklamlar yasaktır. (Örnek: SMS No: 19, objeli mekanım satılıktır.)
     * Oyun içerisinde verilen her reklamdan kullanıcılar sorumludur. Telefon numarasının ve ismin gizlenmesi rolü yapmak yasaktır. İçerik polis ve şerif tarafından aleyhinizde işlem yapmak üzere kullanılabilir. Bu bilgilerin kullanımı MIX olarak kabul edilmemektedir.
     * Reklam veren ve reklam için gelen kişi arasında gasp, yaralama, çatışma, cinsel taciz, kaçırma ve fidye isteme, dolandırma rolleri yapılması yasaktır. Bu durum sadece reklam dolayısıyla oluşan olaylarda geçerlidir.
 * **Diğer Reklam Yasakları:**
   * Araç üstünde "Araç satılıktır yazan kağıt asılıdır" vb. belirtmeler ile reklamlar yapmak yasaktır.
-  * Özel Mesaj\(PM\) üzerinden ticaret/reklam yapmak yasaktır.
-  * Rol mantığına aykırı reklam/satış işlemleri yasaktır. \(Örnek: tanımadığı kişinin yanına gidip "araç satılık mı?", "araç almak ister misin?" vb soru sormak, bağırarak idlewood'da aracının satılık olduğunu söylemek vb\)
+  * Özel Mesaj(PM) üzerinden ticaret/reklam yapmak yasaktır.
+  * Rol mantığına aykırı reklam/satış işlemleri yasaktır. (Örnek: tanımadığı kişinin yanına gidip "araç satılık mı?", "araç almak ister misin?" vb soru sormak, bağırarak idlewood'da aracının satılık olduğunu söylemek vb)
 * **Taksi Reklam Yasakları:**
   * Oyun içerisinde /taksireklam yazarak reklam verebilirsiniz.
 * **İhlalinde:**
@@ -286,7 +290,7 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 
 * **Açıklama:**
   * Sohbet ekranını kullanırken arka arkaya sürekli aynı mesajı tekrar etmeyiniz. PM gibi ooc alanlarda flood yapılması yasaktır.
-  * Rapor ve benzeri alanlarda gereksiz ileti \(spam\) ile alanı meşgul etmek veya yetkilileri rahatsız etmek yasaktır.
+  * Rapor ve benzeri alanlarda gereksiz ileti (spam) ile alanı meşgul etmek veya yetkilileri rahatsız etmek yasaktır.
   * Aynı şekilde kullanıcılara yönelik pm ve benzeri alanlarda kişileri rahatsız etmeyin.
 * **İhlalinde:**
   * Yetkili insiyatifine göre oyuncu cezalandırılır.
@@ -297,15 +301,15 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
   * Sunucuda düzenlenen etkinlik ve eylemlerde nonrp sayılacak şu gibi durumlar yasaktır;
   * Silahlı soygun eyleminde, dışarıdan bir kişinin rehineyi kurtarmaya çalışması.
   * Yürüyüş eylemine araçla katılmak veya trafiğe kapalı alanda araç sürmeye çalışmak.
-  * Polisin event için olduğu durumlarda, olmayacak sloganlar atmak \(gezi olaylarındaki "sık bakalım" sloganını atmak gibi\)
-  * Barışçıl bir etkinliği, kışkırtma sonucu çatışma ortamına çevirmeye çalışmak. \(bilerek kavga çıkartmak gibi\)
+  * Polisin event için olduğu durumlarda, olmayacak sloganlar atmak (gezi olaylarındaki "sık bakalım" sloganını atmak gibi)
+  * Barışçıl bir etkinliği, kışkırtma sonucu çatışma ortamına çevirmeye çalışmak. (bilerek kavga çıkartmak gibi)
 * **İhlalinde:**
   * Yetkili insiyatifine göre oyuncu cezalandırılır.
 
 #### Cinsel Taciz / Tecavüz Kuralı
 
 * **Açıklama:**
-  * Sunucuda tecavüz rolleri ancak karşı tarafın izni olması halinde izin verilir. Mağdur karaktere yönelik cinsel saldırı \(karaktere yönelik fiziksel eylemler vb\) yapılması yasaktır. Kişilerden bu tip bir mağduriyete uğramadan önce izin istenilmesi zorunludur. İzin verilmemesi halinde rollerin durdurulması zorunludur.
+  * Sunucuda tecavüz rolleri ancak karşı tarafın izni olması halinde izin verilir. Mağdur karaktere yönelik cinsel saldırı (karaktere yönelik fiziksel eylemler vb) yapılması yasaktır. Kişilerden bu tip bir mağduriyete uğramadan önce izin istenilmesi zorunludur. İzin verilmemesi halinde rollerin durdurulması zorunludur.
   * Sözlü taciz hakaret eğer mağdur tarafı rahatsız eder noktaya gelirse ve mağdur kişinin uyarıda bulunması halinde bu rollerin durdurulması zorunludur.
 * **Yöntem:**
   * Bu tip roller başlatılmadan önce kişiden izin alınması gerekir. Aksi halde zorlatılmaz.
@@ -360,7 +364,7 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 
 * **Açıklama:**
   * Sunucuda bazı rollerin yapılması yasaklanmıştır:
-  * Terörizm-Terörist Rolleri, Müslüman Rolleri, Türk-Arap-Azeri Rolleri, Ajan Rolleri, Dolandırıcılık Rolleri, Hırsızlık Rolleri, Kendini Olmadığı Meslekte Tanıtma Rolleri\(Polisim, FBI Ajanıyım, Avukatım gibi\)
+  * Terörizm-Terörist Rolleri, Müslüman Rolleri, Türk-Arap-Azeri Rolleri, Ajan Rolleri, Dolandırıcılık Rolleri, Hırsızlık Rolleri, Kendini Olmadığı Meslekte Tanıtma Rolleri(Polisim, FBI Ajanıyım, Avukatım gibi)
 * **İhlalinde:**
   * Yetkili insiyatifine göre oyuncu cezalandırılır.
   * Üst Yönetim Kurulu kararına göre oyuncu yasaklanabilir.
@@ -380,11 +384,11 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 
 * **Açıklama:**
   * Aşağıdaki roller terörizm rolüne girer ve yapılması kesinlikle yasaktır.
-  * -Çatışma sonunda olay yerine gelen destek polis ekiplerine ateş etmek,
-  * -Aynı kişiyi belirli aralıklarla sürekli vurmak,
-  * -Polis konvoyuna ateş etmek,
-  * -Birçok oyuncunun bulunduğu işletme baskınları, etkinlik ve konser baskınları,
-  * -Legal birliklere pusu rolleri
+  * \-Çatışma sonunda olay yerine gelen destek polis ekiplerine ateş etmek,
+  * \-Aynı kişiyi belirli aralıklarla sürekli vurmak,
+  * \-Polis konvoyuna ateş etmek,
+  * \-Birçok oyuncunun bulunduğu işletme baskınları, etkinlik ve konser baskınları,
+  * \-Legal birliklere pusu rolleri
 * **İhlalinde:**
   * Yetkili insiyatifine göre oyuncu cezalandırılır.
   * Üst Yönetim Kurulu insiyatifine göre kişi sunucudan sınırsız uzaklaştırılabilir.
@@ -411,11 +415,11 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
 #### Money Farming
 
 * **Açıklama:**
-  * Kullanıcı bir karakterindeki eşyayı \(para, skin, silah, uyuşturucu, araç, mülk vb.\) başka karakterine aktaramaz.
+  * Kullanıcı bir karakterindeki eşyayı (para, skin, silah, uyuşturucu, araç, mülk vb.) başka karakterine aktaramaz.
 * **Örnek:**
   * Chloe\_Ross karakterinizdeki bir silahı, alt karakteriniz olan Alfie\_Crew'e aktaramazsınız.
 * **İhlalinde:**
-  * Kişinin aktardığı ve aktarım yaptığı karakterler, bu işleme aracı olan karakter \(arkadaşı\) karakter yasağına tabii tutulur..
+  * Kişinin aktardığı ve aktarım yaptığı karakterler, bu işleme aracı olan karakter (arkadaşı) karakter yasağına tabii tutulur..
 
 #### İllegal Güvenli Bölgeye Sığınamaz
 
@@ -424,4 +428,3 @@ Bölümü dikkatlice okuyun lütfen, tüm kurallara bu bölümden erişebilirsin
   * Olay güvenli bölgede başladıysa ve güvenli bölgeden çıkış yapıldıysa tekrar güvenli bölgeye giremezsiniz.
 * **İhlalinde:**
   * Yetkili insiyatifine göre oyuncu cezalandırılır.
-
