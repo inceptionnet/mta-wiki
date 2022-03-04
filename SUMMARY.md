@@ -10,3 +10,8 @@
 * [Uyuşturucu Politikası](politikalar/uyusturucu-politikasi.md)
 * [Birlik Politikası](politikalar/birlik-politikasi.md)
 * [Ticaret Politikası](politikalar/ticaret-politikasi.md)
+
+## Öncü Birlikler
+
+* [Tanıtım](oencue-birlikler/tanitim.md)
+* [Shotoku Group](oencue-birlikler/shotoku-group.md)

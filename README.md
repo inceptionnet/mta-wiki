@@ -6,4 +6,6 @@ description: >-
 
 # Ana Sayfa
 
-Kurallar Inception sunucularının hepsinde geçerlidir.
+
+
+Wiki cleopatra ve EserX tarafından oluşturuldu.
