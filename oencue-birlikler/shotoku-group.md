@@ -4,10 +4,13 @@ description: Japon asıllı şirketler grubu.
 
 # Shotoku Group
 
-Japon asıllı ve gerçek liderinin hala gizemini koruduğu bu birlik öncü birlik sayılır. Birliğe karşı korku rolü sergilenmesi zorunludur. Yeraltı dünyasındaki insanlar bu grubun adını farklı yerlerden duymuştur.
+Japon asıllı ve gerçek liderinin hala gizemini koruduğu bu birliğin birçok sektörde alanı bulunmaktadır. En büyük gelir kaynağı gayrimenkul ve teknoloji sektörü olan bu şirketin yeraltı dünyasının önde gelen şirketlerindendir. Ayrıca geçmiş yıllarda Nichola Rockford'un suikasti sonrasında tanıkların Shotoku Group adına çalışan birkaç insanın ismini vermesi olayın gizemini hala koruyor.
 
 
 
-{% hint style="warning" %}
-**Uyarı:** <mark style="color:orange;">Sunucuda birden fazla öncü birlik bulunduğundan yapılan anlaşmalı rollerde bazı kurallar geçerli sayılmayabilir.</mark>
-{% endhint %}
+**Sektörler**: Teknoloji, Otomotiv, Gayrimenkul, İşletme
+
+
+
+
+
