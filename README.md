@@ -6,6 +6,4 @@ description: >-
 
 # Ana Sayfa
 
-
-
-Wiki cleopatra ve EserX tarafından oluşturuldu.
+Kurallar Inception sunucularının hepsinde geçerlidir.

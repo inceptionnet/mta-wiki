@@ -14,5 +14,3 @@
 ## Öncü Birlikler
 
 * [Tanıtım](oencue-birlikler/tanitim.md)
-* [Shotoku Group](oencue-birlikler/shotoku-group.md)
-* [Nathan Industry](oencue-birlikler/nathan-industry.md)
