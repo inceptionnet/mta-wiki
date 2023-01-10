@@ -12,5 +12,5 @@
 
 ## Oluşturucular:
 
-- <a href="https://github.com/cleopatra">fresholia</a>
+- <a href="https://github.com/fresholia">cleopatra</a>
 - <a href="https://github.com/eserjpeg">eserjpeg</a>
